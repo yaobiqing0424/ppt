@@ -9,3 +9,4 @@
 * [HTML5](http://www.html5cn.org/)
 * [php100](http://www.php100.com/)
 * [apkbus](http://www.apkbus.com/)
+* [huawei anzhi](http://bbs.anzhi.com/forum.php?mod=viewthread&tid=5409183&page=1#pid32002799)
