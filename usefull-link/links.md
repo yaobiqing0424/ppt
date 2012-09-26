@@ -10,3 +10,4 @@
 * [php100](http://www.php100.com/)
 * [apkbus](http://www.apkbus.com/)
 * [huawei anzhi](http://bbs.anzhi.com/forum.php?mod=viewthread&tid=5409183&page=1#pid32002799)
+* [163镜像](http://mirrors.163.com/.help/)
