@@ -11,3 +11,5 @@
 * [apkbus](http://www.apkbus.com/)
 * [huawei anzhi](http://bbs.anzhi.com/forum.php?mod=viewthread&tid=5409183&page=1#pid32002799)
 * [163镜像](http://mirrors.163.com/.help/)
+* [django](http://haoluobo.com/trac/wiki/Django)
+* [djangobook](http://djangobook.py3k.cn/2.0/chapter01/)
