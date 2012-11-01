@@ -13,3 +13,7 @@
 * [163镜像](http://mirrors.163.com/.help/)
 * [django](http://haoluobo.com/trac/wiki/Django)
 * [djangobook](http://djangobook.py3k.cn/2.0/chapter01/)
+* [solr](http://lucene.apache.org/solr/)
+* [mongodb](http://www.mongodb.org/)
+* [redis](http://redis.io/)
+MogileFs
