@@ -23,6 +23,7 @@
 * [phpbook](http://phpbook.sinaapp.com/)
 
 ##other
+* [oschina](http://www.ostools.net/apidocs)
 * [C++ Primer](http://wenku.baidu.com/view/fb399a35b90d6c85ec3ac628.html)
 * [163镜像](http://mirrors.163.com/.help/)
 * [Objective-C](http://www.cnblogs.com/xymwbc/archive/2011/06/10/2077630.html)
