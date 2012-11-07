@@ -1,6 +1,6 @@
 #Todo list
 
-##  [返回](/default.md) | [links](/useful-link/links.md)
+##  [返回](default.md) | [links](useful-link/links.md)
 
 ------------------------
 ##cache
