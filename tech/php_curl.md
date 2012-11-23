@@ -42,7 +42,6 @@ do {
     curl_multi_exec($master,$running);
     $info = curl_multi_info_read($master);
     print_r($info);
-
 } while($running > 0);
 echo "results: ";
 for($i = 0; $i < $node_count; $i++)
