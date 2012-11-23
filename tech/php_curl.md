@@ -1,6 +1,8 @@
 
 #Php Module Curl
 
+[PHP CURL](http://inspire.twgg.org/programming/item/327-php-curl-teaching.html)
+
 * curl_init
 * curl_setopt
 * curl_setopt_array
