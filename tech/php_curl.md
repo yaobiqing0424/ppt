@@ -29,10 +29,8 @@ $info = curl_getinfo($ch);
 <pre>
 $nodes = array('http://www.php.net', 'http://www.weibo.com', 'http://www.haozu.com');
 $node_count = count($nodes);
-
 $curl_arr = array();
 $master = curl_multi_init();
-
 for($i = 0; $i < $node_count; $i++)
 {
     $url =$nodes[$i];
@@ -40,14 +38,12 @@ for($i = 0; $i < $node_count; $i++)
     curl_setopt($curl_arr[$i], CURLOPT_RETURNTRANSFER, true);
     curl_multi_add_handle($master, $curl_arr[$i]);
 }
-
 do {
     curl_multi_exec($master,$running);
     $info = curl_multi_info_read($master);
     print_r($info);
 
 } while($running > 0);
-
 echo "results: ";
 for($i = 0; $i < $node_count; $i++)
 {
