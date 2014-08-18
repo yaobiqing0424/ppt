@@ -12,6 +12,7 @@
 * [django](http://haoluobo.com/trac/wiki/Django)
 * [djangobook](http://djangobook.py3k.cn/2.0/chapter01/)
 * [http://sebug.net/paper/python/](http://sebug.net/paper/python/)
+* [标准库](http://sebug.net/paper/books/python/%E3%80%8APython%E6%A0%87%E5%87%86%E5%BA%93%E3%80%8B%E4%B8%AD%E6%96%87%E7%89%88.pdf)
 
 * MogileFs
 * [solr](http://lucene.apache.org/solr/)
