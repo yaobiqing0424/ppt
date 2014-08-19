@@ -34,3 +34,6 @@
 * [Objective-C](http://www.cnblogs.com/xymwbc/archive/2011/06/10/2077630.html)
 * [Cocoa China](http://www.cocoachina.com/)
 * [平凡的世界](http://www.ccvita.com/)
+
+##java
+* [java]http://www.cnblogs.com/vamei/archive/2013/03/31/2991531.html
