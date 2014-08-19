@@ -7,6 +7,7 @@
 ##前端
 * [twitter / bootstrap](http://wrongwaycn.github.com/bootstrap/docs/base-css.html)
 * [HTML5](http://www.html5cn.org/)
+* [ECharts](http://echarts.baidu.com/?qq-pf-to=pcqq.group)
 
 ##python
 * [django](http://haoluobo.com/trac/wiki/Django)
