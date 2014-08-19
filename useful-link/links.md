@@ -36,4 +36,8 @@
 * [平凡的世界](http://www.ccvita.com/)
 
 ##java
-* [java]http://www.cnblogs.com/vamei/archive/2013/03/31/2991531.html
+* [java](http://www.cnblogs.com/vamei/archive/2013/03/31/2991531.html)
+* 
+
+
+* [open](http://www.open-open.com/)
