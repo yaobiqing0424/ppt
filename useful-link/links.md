@@ -42,3 +42,6 @@
 
 
 * [open](http://www.open-open.com/)
+## 设计模式
+
+* [23中设计模式](http://blog.csdn.net/zhengzhb/article/category/926691/1)
