@@ -10,6 +10,7 @@
 * [ECharts](http://echarts.baidu.com/?qq-pf-to=pcqq.group)
 
 ##python
+* [python](http://www.pythondoc.com/)
 * [django](http://haoluobo.com/trac/wiki/Django)
 * [djangobook](http://djangobook.py3k.cn/2.0/chapter01/)
 * [http://sebug.net/paper/python/](http://sebug.net/paper/python/)
