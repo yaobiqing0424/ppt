@@ -10,6 +10,7 @@
 * [ECharts](http://echarts.baidu.com/?qq-pf-to=pcqq.group)
 
 ##python
+* [Flask](http://www.pythondoc.com/flask-mega-tutorial/templates.html)
 * [python](http://www.pythondoc.com/)
 * [django](http://haoluobo.com/trac/wiki/Django)
 * [djangobook](http://djangobook.py3k.cn/2.0/chapter01/)
