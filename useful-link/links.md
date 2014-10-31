@@ -11,6 +11,9 @@
 
 ##python
 * [Flask](http://www.pythondoc.com/flask-mega-tutorial/templates.html)
+* [SQLAlchemy](http://pythonhosted.org/Flask-SQLAlchemy/)
+* [Celery](http://www.celeryproject.org/docs-and-support/)
+* [http://werkzeug.pocoo.org](http://werkzeug.pocoo.org)
 * [python](http://www.pythondoc.com/)
 * [django](http://haoluobo.com/trac/wiki/Django)
 * [djangobook](http://djangobook.py3k.cn/2.0/chapter01/)
