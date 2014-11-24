@@ -10,6 +10,7 @@
 * [ECharts](http://echarts.baidu.com/?qq-pf-to=pcqq.group)
 
 ##python
+* [http://flask.pocoo.org/extensions/](http://flask.pocoo.org/extensions/)
 * [Flask](http://www.pythondoc.com/flask-mega-tutorial/templates.html)
 * [SQLAlchemy](http://pythonhosted.org/Flask-SQLAlchemy/)
 * [Celery](http://www.celeryproject.org/docs-and-support/)
